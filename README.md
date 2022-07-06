@@ -1,2 +1,2 @@
 # FirstRepo
-Im starting to develop, Im a coder, beginner, hoping to learn a lot
+Im starting to develop, Im a coder, beginner, I hope to learn a lot
